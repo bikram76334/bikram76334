@@ -1,9 +1,7 @@
 #  Hi, I'm Bikram Chapagain (Bikky)!!
 
  Computer Engineering Undergraduate (2022–2026)  
- Data Analysis & Machine Learning Enthusiast  
- Passionate about AI, Computer Vision & Predictive Modeling  
- Nepal  
+ Passionate about Artificial Intelligence, with a strong focus on Medical Image Analysis, Computer Vision, and Predictive Modeling. Interested in developing intelligent healthcare solutions using deep learning, image processing, and data-driven technologies. Based in Nepal and continuously exploring innovative AI applications in medical imaging and computer vision.
 
 ---
 
@@ -78,8 +76,19 @@ Trained on Fruits-360 dataset with Data Augmentation
 https://www.kaggle.com/code/bikramchapagain/fruits-360-image-classification-project  
 
 ---
+## 2. Pothole Detection System Using Deep Learning
 
-## 2.House Price Prediction (Nepal Context)
+Built a CNN-based model for automatic pothole detection from road images  
+Trained on 1,411 images using TensorFlow and Keras  
+Applied data augmentation and image preprocessing techniques  
+Achieved 92.5% classification accuracy with strong recall performance  
+Evaluated using confusion matrix, accuracy, and loss curves  
+Focused on real-world road safety and intelligent transportation systems  
+
+**Kaggle Notebook:**  
+https://www.kaggle.com/code/bikramchapagain/pothole-detection-system-using-deep-learning
+
+## 3.House Price Prediction (Nepal Context)
 
  Implemented Linear Regression & Random Forest models  
  Performed advanced feature engineering  
@@ -91,7 +100,7 @@ https://www.kaggle.com/code/bikramchapagain/house-price-prediction
 
 ---
 
-## 3️ Student Performance Analysis
+## 4. Student Performance Analysis
 
  Data preprocessing & cleaning  
  Feature selection techniques  
@@ -103,7 +112,7 @@ https://www.kaggle.com/code/bikramchapagain/student-academic-performance-analysi
 
 ---
 
-## 4️ Web-Based Attendance System
+## 5. Web-Based Attendance System
 
  Developed using Python + MySQL  
  Manual entry/exit tracking system  
@@ -130,7 +139,7 @@ https://www.kaggle.com/code/bikramchapagain/student-academic-performance-analysi
 
 ✔ Improving Deep Learning skills  
 ✔ Building real-world ML systems  
-✔ Preparing for Data Science & AI internships  
+✔ Currently working as an Image Analysis Intern  
 ✔ Contributing to open-source projects  
 
 ---
