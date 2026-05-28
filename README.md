@@ -121,7 +121,15 @@ https://www.kaggle.com/code/bikramchapagain/student-academic-performance-analysi
  Secure authentication system  
 
 ---
+## 6. Personal Portfolio Website
 
+Built a personal portfolio website to showcase projects, skills, and experience  
+Designed a responsive and clean UI for better user experience across devices  
+Organized sections for projects, technical skills, and contact information  
+Focused on presenting machine learning and computer vision work in a structured way  
+
+**Website:**  
+https://www.bikramchapagain.com.np/
 # Kaggle Profile
 
  https://www.kaggle.com/bikramchapagain  
