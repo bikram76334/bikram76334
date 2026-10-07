@@ -25,9 +25,7 @@ I enjoy transforming raw data into meaningful insights and developing intelligen
 ### Completed Research
  **Crop Disease Detection for Nepalese Farmers** (research paper): EfficientNet-B3 on PlantVillage, 98.51% validation accuracy, plus a Nepal smartphone test set  
  **Cybersecurity Awareness Among Adolescents (16–20) in Dhangadhi, NAST:** 372 valid responses from six colleges  
-https://github.com/bikram76334/cybersecuirty_awarness_in_dhanghadi_research  
- **Retinal disease research at NAAMII** (RFMiD, ARMD, Papilledema) using EfficientNet B1–B4  
-
+https://github.com/bikram76334/cybersecuirty_awarness_in_dhanghadi_research 
 ---
 
 ##  Technical Skills
