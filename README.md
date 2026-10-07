@@ -20,11 +20,13 @@ I enjoy transforming raw data into meaningful insights and developing intelligen
  One disease module per month, about 12 diseases over a year  
  Current module: Diabetic Retinopathy (APTOS, Messidor-1, IDRiD) with cross-dataset experiments  
  Stack: PyTorch, EfficientNet, Flask  
+ **Repo:** https://github.com/bikram76334/SwastyaAI  
 
 ### Completed Research
- Cybersecurity Awareness Among Adolescents (16–20) in Dhangadhi, NAST: 372 valid responses from six colleges  
+ **Crop Disease Detection for Nepalese Farmers** (research paper): EfficientNet-B3 on PlantVillage, 98.51% validation accuracy, plus a Nepal smartphone test set  
+ **Cybersecurity Awareness Among Adolescents (16–20) in Dhangadhi, NAST:** 372 valid responses from six colleges  
 https://github.com/bikram76334/cybersecuirty_awarness_in_dhanghadi_research  
- Retinal disease research at NAAMII (RFMiD, ARMD, Papilledema) using EfficientNet B1–B4  
+ **Retinal disease research at NAAMII** (RFMiD, ARMD, Papilledema) using EfficientNet B1–B4  
 
 ---
 
@@ -81,82 +83,78 @@ https://github.com/bikram76334/cybersecuirty_awarness_in_dhanghadi_research
 
 #  Featured Projects
 
----
+##  Ophthalmology & Medical Imaging
 
-## 1. AI-Powered Crop Disease Detection (Major Project, Team)
+### SwasthyaAI (Ongoing Research)
+Multi-disease medical image platform, bilingual English/Nepali. Current module: Diabetic Retinopathy.  
+ **GitHub:** https://github.com/bikram76334/SwastyaAI  
 
-Classifies crop leaf images into 38 classes across 14 crops (PlantVillage)  
-EfficientNet-B3 with about 98% validation accuracy  
-Flask + PyTorch backend, web app and Flutter Android app  
-Bilingual English/Nepali interface  
+### Retinal Disease Classification (RFMiD, EfficientNet)
+Multi-disease retinal fundus classification, built during the NAAMII internship.  
+ **Kaggle:** https://www.kaggle.com/bikramchapagain  
 
----
+### Retinal Multiclass Disease Detection
+Multiclass deep learning model for several retinal conditions from fundus images.  
+ **Kaggle:** https://www.kaggle.com/bikramchapagain  
 
-## 2. CNN-Based Fruit Image Classification
-
-Built a Convolutional Neural Network using TensorFlow  
-Trained on Fruits-360 dataset with Data Augmentation  
- Achieved high multi-class classification accuracy  
- Evaluated performance using confusion matrix & loss curves  
-
- **Kaggle Notebook:**  
-https://www.kaggle.com/code/bikramchapagain/fruits-360-image-classification-project  
+### Papilledema Detection
+Classification of papilledema from retinal images, an indicator of raised intracranial pressure.  
+ **Kaggle:** https://www.kaggle.com/bikramchapagain  
 
 ---
 
-## 3. Pothole Detection System Using Deep Learning
+##  Agriculture AI
 
-Built a CNN-based model for automatic pothole detection from road images  
-Trained on 1,411 images using TensorFlow and Keras  
-Applied data augmentation and image preprocessing techniques  
-Achieved 92.5% classification accuracy with strong recall performance  
-Evaluated using confusion matrix, accuracy, and loss curves  
-
-**Kaggle Notebook:**  
-https://www.kaggle.com/code/bikramchapagain/pothole-detection-system-using-deep-learning
+### AI-Powered Crop Disease Detection (Major Project, Team + Research Paper)
+38 classes across 14 crops (PlantVillage), EfficientNet-B3 with 98.51% validation accuracy  
+Flask + PyTorch backend, bilingual web app, Flutter Android app  
+Research paper: *AI-Powered Crop Disease Detection for Nepalese Farmers: An EfficientNet-B3 Classifier with an Integrated Web and Mobile Decision-Support System*  
+ **GitHub:** https://github.com/Crop-Disease-Detection-Team/cropdiseasedetection  
 
 ---
 
-## 4. House Price Prediction (Nepal Context)
+##  Computer Vision
 
- Implemented Linear Regression & Random Forest models  
- Performed advanced feature engineering  
- Applied cross-validation techniques  
- Compared performance using MAE, MSE, R²  
+### Pothole Detection System Using Deep Learning
+CNN on 1,411 road images (TensorFlow/Keras), 92.5% accuracy with strong recall  
+ **Kaggle:** https://www.kaggle.com/code/bikramchapagain/pothole-detection-system-using-deep-learning  
+ **GitHub:** https://github.com/bikram76334/Pothole-Detection-System-Using-Deep-Learning  
 
- **Kaggle Notebook:**  
-https://www.kaggle.com/code/bikramchapagain/house-price-prediction  
+### CNN-Based Fruit Image Classification
+CNN on Fruits-360 with data augmentation; evaluated with confusion matrix and loss curves  
+ **Kaggle:** https://www.kaggle.com/code/bikramchapagain/fruits-360-image-classification-project  
 
----
-
-## 5. Student Performance Analysis
-
- Data preprocessing & cleaning  
- Feature selection techniques  
- Predictive modeling  
- Insight-driven reporting & visualization  
-
- **Kaggle Notebook:**  
-https://www.kaggle.com/code/bikramchapagain/student-academic-performance-analysis-grade-p  
+### Intel Image Classification
+CNN landscape classification (6 categories) with data augmentation and transfer learning  
+ **Kaggle:** https://www.kaggle.com/code/bikramchapagain/intel-image-classification-project  
 
 ---
 
-## 6. Web-Based Attendance System
+##  Data Science & Predictive Modeling
 
- Developed using Python + MySQL  
- Manual entry/exit tracking system  
- Automatic duration calculation  
- Admin dashboard with reporting  
- Secure authentication system  
+### House Price Prediction (Nepal Context)
+Linear Regression and Random Forest, feature engineering, cross-validation, MAE/MSE/R²  
+ **Kaggle:** https://www.kaggle.com/code/bikramchapagain/house-price-prediction  
+
+### Student Performance Analysis
+Data cleaning, feature selection, predictive modeling, visual reporting  
+ **Kaggle:** https://www.kaggle.com/code/bikramchapagain/student-academic-performance-analysis-grade-p  
+
+### Cybersecurity Awareness Survey Analysis
+Survey data analysis (372 valid responses) with pandas  
+ **GitHub:** https://github.com/bikram76334/cybersecuirty_awarness_in_dhanghadi_research  
 
 ---
 
-## 7. Personal Portfolio Website
+##  Web Systems
 
-Responsive portfolio showcasing projects, research, skills, and contact information  
+### Web-Based Attendance System
+Python + MySQL, entry/exit tracking, automatic duration calculation, admin dashboard, secure login  
+ **GitHub:** https://github.com/bikram76334  
 
-**Website:**  
-https://www.bikramchapagain.com.np/
+### Personal Portfolio Website
+Responsive portfolio of projects, research, and skills  
+ **Website:** https://www.bikramchapagain.com.np/
 
 ---
 
