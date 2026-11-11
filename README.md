@@ -91,6 +91,12 @@ https://github.com/bikram76334/cybersecuirty_awarness_in_dhanghadi_research
 Multi-disease medical image platform, bilingual English/Nepali. Current module: Diabetic Retinopathy.  
  **GitHub:** https://github.com/bikram76334/SwastyaAI  
 
+**3D Medical Image Segmentation**
+Volumetric segmentation pipeline for brain MRI (hippocampus) using a 3D U-Net, with Dice and Hausdorff metrics implemented from scratch.
+- GitHub: https://github.com/bikram76334/medseg3d
+- Kaggle: https://www.kaggle.com/code/bikramchapagain/medseg3d
+- Hugging Face: https://huggingface.co/spaces/bikky67/medseg3d-hippocampus
+- 
 ### Retinal Disease Classification (RFMiD, EfficientNet)
 Multi-disease retinal fundus classification, built during the NAAMII internship.  
  **Kaggle:** https://www.kaggle.com/bikramchapagain  
